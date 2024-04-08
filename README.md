@@ -1,4 +1,8 @@
-# Bus Reservation System
+PROJECT CREATED BY : V THRISHA
+
+REGISTER NUMBER : 511321104103
+
+COLLEGE NAME : KINGSTON ENGINEERING COLLEGE (5113),(VELLORE DISTRICT)# Bus Reservation System
 
 This is a simple Bus Reservation System built using Python and Django framework. The system allows users to search for available buses, make reservations, and view their booking details.
 
